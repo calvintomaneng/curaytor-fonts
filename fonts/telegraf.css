@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Telegraf";
+  src: url("https://cdn.jsdelivr.net/gh/calvintomaneng/curaytor-fonts@main/fonts/Telegraf%20UltraLight%20200.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Telegraf";
+  src: url("https://cdn.jsdelivr.net/gh/calvintomaneng/curaytor-fonts@main/fonts/TelegrafRegular_272984568a25d8528fe2de8b20b29011.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Telegraf";
+  src: url("https://cdn.jsdelivr.net/gh/calvintomaneng/curaytor-fonts@main/fonts/Telegraf%20UltraBold%20800.woff") format("woff");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
